@@ -47,5 +47,5 @@ frontend chimuanya-frontend-https
 
 backend chimuanya-backend
         balance roundrobin
-        server 63210-web-01 100.25.19.204:80 check
-        server 63210-web-02 54.157.159.85:80 check
+        server 284677-web-01 54.89.108.30:80 check
+        server 63210-web-02 100.26.156.148:80 check
