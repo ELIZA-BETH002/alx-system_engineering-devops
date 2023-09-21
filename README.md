@@ -1,2 +1,1 @@
-#!/bin/bash
-Shell basics
+Alx System Engineerind Devops
