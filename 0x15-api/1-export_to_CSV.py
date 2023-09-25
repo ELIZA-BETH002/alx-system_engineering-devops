@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 """
- 
+ This script exports to CSV
 """
 
 import requests
